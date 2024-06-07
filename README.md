@@ -60,5 +60,5 @@ I committed to learning and focus on **HTML5, CSS3, JS, React, English**. Passio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /> 
 </div> 
-
-<img align="left" src="https://profile-counter.glitch.me/NatalySheludko/count.svg?"  />
+<br/>
+<p>Profile views:</p><img align="left" src="https://profile-counter.glitch.me/NatalySheludko/count.svg?"  />
