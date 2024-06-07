@@ -3,6 +3,12 @@
 👋 Hi there, I'm Nataliia! 😊
 I committed to learning and focus on **HTML5, CSS3, JS, React, English**. Passionate about continuously expanding skills in web development. Development and work for the result are important for me 💫
 
+## Feel free to reach out to me:
+![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&logoColor=white&labelColor=blue&link=www.linkedin.com%2Fin%2Fnataliia-sheludko)
+![Static Badge](https://img.shields.io/badge/Instagram-%23ff3e7f?style=flat&logo=instagram&logoColor=white&labelColor=%23ff3e7f&link=https%3A%2F%2Fwww.instagram.com%2Fnatashapismennaia%2F)
+![Static Badge](https://img.shields.io/badge/Telegram-%23e8e8e8?style=flat&logo=telegram&logoColor=%2354b0f7&labelColor=%23e8e8e8&link=https%3A%2F%2Ft.me%2Fnatasha_sheludko)
+![Static Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white&labelColor=red&link=sheludko.nataliia%40gmail.com)
+
 ## Education:
 
 - Fullstack developer - IT School GoIT
@@ -11,6 +17,12 @@ I committed to learning and focus on **HTML5, CSS3, JS, React, English**. Passio
 
 - English - Intermediate
 - Ukrainian - Native
+
+<br/>
+<br/>
+
+[![Nataly's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalySheludko&show_icons=true&theme=ambient_gradient&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## My Technology Stack:
 
