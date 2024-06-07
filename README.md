@@ -11,7 +11,7 @@ I committed to learning and focus on **HTML5, CSS3, JS, React, English**. Passio
 
 ## Languages:
 
-- English - Pre-intermediate
+- English - Intermediate
 - Ukrainian - Native
 
 ## My Tech Stack Icons:
