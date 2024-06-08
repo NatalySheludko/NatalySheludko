@@ -5,7 +5,7 @@ I committed to learning and focus on **HTML5, CSS3, JS, React, English**. Passio
 
 <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="220" alt="Cat Coding" /> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="170" alt="Cat Coding" />
 
-## Feel free to reach out to me:
+## Feel free to contact me at:
 <div align="left">
   <a href="www.linkedin.com/in/nataliia-sheludko" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
