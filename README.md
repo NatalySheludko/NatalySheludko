@@ -64,9 +64,10 @@ I committed to learning and focus on **HTML5, CSS3, JS, React, English**. Passio
 <br/>
 <p>Profile views:</p><img align="left" src="https://profile-counter.glitch.me/NatalySheludko/count.svg?"  />
 
+<br/>
 
-<br clear="both">
+![Snake animation](https://github.com/NatalySheludko/NatalySheludko/raw/output/snake.svg)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 
