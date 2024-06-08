@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=230&text=✌️Hi%20there,%20I'm%20Nataliia!&section=header&color=0:EEFF00,100:fe4a40&reversal=false&textBg=false&fontColor=black&fontAlign=48&fontAlignY=51&descAlign=52&descAlignY=80&fontSize=60)
 ## About me 😊
-I committed to learning and focus on **HTML5, CSS3, JS, React, English**. Passionate about continuously expanding skills in web development. Development and work for the result are important for me 💫 <br/>
-🌱 I’m currently learning **TypeScript, Node.js**
+🌱 I’m currently learning **TypeScript, Node.js** and focus on **HTML5, CSS3, JavaScript, React**. Passionate about continuously expanding skills in web development. Development and work for the result are important for me 💫 <br/>
 
 <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="220" alt="Cat Coding" /> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="170" alt="Cat Coding" />
 
