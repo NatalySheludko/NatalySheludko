@@ -52,26 +52,24 @@ I committed to learning and focus on **HTML5, CSS3, JS, React, English**. Passio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /> 
-</div> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
+  <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40" alt="stackoverflow logo"  />
+</div>
 
 <h3 align="left">🔥   My Stats :</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=NatalySheludko&show_icons=true&theme=ambient_gradient&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=My%20Stats" width="420" alt="streak graph" /> <img src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif" width="290" align="right" alt="Cute Pembe The Pink Cat" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalySheludko&layout=donut-vertical&custom_title=Total%20Languages" height="320" alt="streak graph" /> <img src="https://github-contributor-stats.vercel.app/api?username=NatalySheludko&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true&custom_title=🔝%20Top%20Contributed%20Repo" width="500" align="right" alt="streak graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalySheludko&custom_title=Total%20Languages" width="350" alt="streak graph" /> <img src="https://github-contributor-stats.vercel.app/api?username=NatalySheludko&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true&custom_title=🔝%20Top%20Contributed%20Repo" height="240" alt="streak graph" />
 
-<img src="https://streak-stats.demolab.com?user=NatalySheludko&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="220" alt="Cat Coffee Coding" /> 
+<img src="https://streak-stats.demolab.com?user=NatalySheludko&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="220" align="right" alt="Cat Coffee Coding" /> 
 
 <br/>
 
 [![](https://visitcount.itsvg.in/api?id=NatalySheludko&icon=2&color=11)](https://visitcount.itsvg.in)
-
-
-
-
-
-
 
 
 
