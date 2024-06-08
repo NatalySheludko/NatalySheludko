@@ -31,8 +31,10 @@ I committed to learning and focus on **HTML5, CSS3, JS, React, English**. Passio
 
 - English - Intermediate
 - Ukrainian - Native
+<h3 align="left">🔥   My Stats :</h3>
 
 [![Nataly's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalySheludko&show_icons=true&theme=ambient_gradient&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats) <img src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif" width="320" align="right" alt="Cute Pembe The Pink Cat" /> 
+<img src="https://streak-stats.demolab.com?user=NatalySheludko&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
 <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="350" alt="Cat Coffee Coding" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalySheludko&layout=donut-vertical&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -60,4 +62,6 @@ I committed to learning and focus on **HTML5, CSS3, JS, React, English**. Passio
 </div> 
 <br/>
 <p>Profile views:</p><img align="left" src="https://profile-counter.glitch.me/NatalySheludko/count.svg?"  />
+
+
 
