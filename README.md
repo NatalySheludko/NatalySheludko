@@ -31,12 +31,14 @@ I committed to learning and focus on **HTML5, CSS3, JS, React, English**. Passio
 
 - English - Intermediate
 - Ukrainian - Native
+
 <h3 align="left">🔥   My Stats :</h3>
 
-[![Nataly's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalySheludko&show_icons=true&theme=ambient_gradient&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats) <img src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif" width="320" align="right" alt="Cute Pembe The Pink Cat" /> 
-<img src="https://streak-stats.demolab.com?user=NatalySheludko&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=NatalySheludko&show_icons=true&theme=ambient_gradient&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=Stats" width="420" alt="streak graph"  /> <img src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif" width="290" align="right" alt="Cute Pembe The Pink Cat" />
 
-<img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="350" alt="Cat Coffee Coding" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalySheludko&layout=donut-vertical&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalySheludko&layout=donut-vertical&custom_title=Languages" height="320" alt="streak graph"  /> <img src="https://github-contributor-stats.vercel.app/api?username=NatalySheludko&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true&custom_title=🔝%20Top%20Contributed%20Repo" height="320" alt="streak graph" align="right"  />
+
+<img src="https://streak-stats.demolab.com?user=NatalySheludko&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="220" alt="Cat Coffee Coding" /> 
 
 ## My Technology Stack:
 
@@ -56,13 +58,18 @@ I committed to learning and focus on **HTML5, CSS3, JS, React, English**. Passio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /> 
 </div> 
+
 <br/>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=NatalySheludko.NatalySheludko&"  />
+
+[![](https://visitcount.itsvg.in/api?id=NatalySheludko&icon=2&color=11)](https://visitcount.itsvg.in)
+
+
+
+
 
 
 
