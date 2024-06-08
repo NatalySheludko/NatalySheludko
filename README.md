@@ -34,11 +34,11 @@ I committed to learning and focus on **HTML5, CSS3, JS, React, English**. Passio
 
 <h3 align="left">🔥   My Stats :</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=NatalySheludko&show_icons=true&theme=ambient_gradient&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=Stats" width="420" alt="streak graph"  /> <img src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif" width="290" align="right" alt="Cute Pembe The Pink Cat" />
+<img src="https://github-readme-stats.vercel.app/api?username=NatalySheludko&show_icons=true&theme=ambient_gradient&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=Stats" width="420" alt="streak graph" /> <img src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif" width="290" align="right" alt="Cute Pembe The Pink Cat" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalySheludko&layout=donut-vertical&custom_title=Languages" height="320" alt="streak graph"  /> <img src="https://github-contributor-stats.vercel.app/api?username=NatalySheludko&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true&custom_title=🔝%20Top%20Contributed%20Repo" height="320" alt="streak graph" align="right"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalySheludko&layout=donut-vertical&custom_title=Languages" height="320" alt="streak graph" /> <img src="https://github-contributor-stats.vercel.app/api?username=NatalySheludko&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true&custom_title=🔝%20Top%20Contributed%20Repo" height="320" alt="streak graph" />
 
-<img src="https://streak-stats.demolab.com?user=NatalySheludko&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="220" alt="Cat Coffee Coding" /> 
+<img src="https://streak-stats.demolab.com?user=NatalySheludko&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="220" alt="Cat Coffee Coding" /> 
 
 ## My Technology Stack:
 
