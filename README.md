@@ -1,8 +1,9 @@
-## About me ✌️
-
-👋 Hi there, I'm Nataliia! 😊
+![header](https://capsule-render.vercel.app/api?type=waving&height=230&text=✌️Hi%20there,%20I'm%20Nataliia!&section=header&color=0:EEFF00,100:fe4a40&reversal=false&textBg=false&fontColor=black&fontAlign=48&fontAlignY=51&descAlign=52&descAlignY=80&fontSize=60)
+## About me 😊
 I committed to learning and focus on **HTML5, CSS3, JS, React, English**. Passionate about continuously expanding skills in web development. Development and work for the result are important for me 💫 <br/>
 🌱 I’m currently learning **TypeScript, Node.js**
+
+<img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="220" alt="Cat Coding" /> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="170" alt="Cat Coding" />
 
 ## Feel free to reach out to me:
 <div align="left">
@@ -17,26 +18,23 @@ I committed to learning and focus on **HTML5, CSS3, JS, React, English**. Passio
   </a>
   <a href="https://t.me/natasha_sheludko" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
+  </a> 
 </div>
 
 ## Education:
 
 - Full Stack developer - IT School GoIT
 - Full Stack mentee - mentorship program "BE" from INSCIENCE
-- Front-End developer - SheCodes Foundation
+- Front-End developer - <img src="https://media.giphy.com/media/9nB2R4VkKRe5qznOhF/giphy.gif" width="15" height="15" alt="SheCodes" /> SheCodes Foundation 
 
 ## Languages:
 
 - English - Intermediate
 - Ukrainian - Native
-<br/>
 
-[![Nataly's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalySheludko&show_icons=true&theme=ambient_gradient&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-<hr/>
+[![Nataly's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalySheludko&show_icons=true&theme=ambient_gradient&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats) <img src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif" width="320" align="right" alt="Cute Pembe The Pink Cat" /> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalySheludko&layout=donut-vertical&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="350" alt="Cat Coffee Coding" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalySheludko&layout=donut-vertical&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Technology Stack:
 
@@ -62,3 +60,4 @@ I committed to learning and focus on **HTML5, CSS3, JS, React, English**. Passio
 </div> 
 <br/>
 <p>Profile views:</p><img align="left" src="https://profile-counter.glitch.me/NatalySheludko/count.svg?"  />
+
