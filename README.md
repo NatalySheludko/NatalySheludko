@@ -62,7 +62,8 @@ I committed to learning and focus on **HTML5, CSS3, JS, React, English**. Passio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /> 
 </div> 
 <br/>
-<p>Profile views:</p><img align="left" src="https://profile-counter.glitch.me/NatalySheludko/count.svg?"  />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=NatalySheludko.NatalySheludko&"  />
+
 
 
 
