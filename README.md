@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=230&text=✌️Hi%20there,%20I'm%20Nataliia!&section=header&color=0:EEFF00,100:fe4a40&reversal=false&textBg=false&fontColor=black&fontAlign=48&fontAlignY=51&descAlign=52&descAlignY=80&fontSize=60)
 ## About me 😊
-🌱 I’m currently learning **TypeScript, Node.js** and focusing on **HTML5, CSS3, JavaScript, React**. Passionate about continuously expanding skills in web development. Development and work for the result are important for me 💫 <br/>
+🌱 I’m currently focusing on **TypeScript, Node.js, JavaScript, React, HTML5, CSS3**. Passionate about continuously expanding skills in web development. Development and work for the result are important for me 💫 <br/>
 
 <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="220" alt="Cat Coding" /> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="170" alt="Cat Coding" />
 
@@ -56,6 +56,8 @@
   <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
   <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
   <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40" alt="stackoverflow logo"  />
+  <img src="https://cdn.simpleicons.org/sass/CC6699" height="40" alt="sass logo" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo" />
 </div>
 
 <h3 align="left">🔥   My Stats :</h3>
