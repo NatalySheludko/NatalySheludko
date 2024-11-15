@@ -68,7 +68,7 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-<img src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif" width="290" align="left" alt="Cute Pembe The Pink Cat" /> <img src="https://github-readme-stats.vercel.app/api?username=NatalySheludko&show_icons=true&theme=ambient_gradient&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=My%20Stats" width="420" alt="streak graph" /> 
+<img src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif" width="290" style="float: left; margin-right: 20px;" alt="Cute Pembe The Pink Cat" /> <img src="https://github-readme-stats.vercel.app/api?username=NatalySheludko&show_icons=true&theme=ambient_gradient&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&custom_title=My%20Stats" width="420" alt="streak graph" /> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalySheludko&custom_title=Total%20Languages" width="350" alt="streak graph" /> <img src="https://github-contributor-stats.vercel.app/api?username=NatalySheludko&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true&custom_title=🔝%20Top%20Contributed%20Repo" height="240" alt="streak graph" /> 
 
