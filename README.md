@@ -61,7 +61,6 @@
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo" />
   <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="40" alt="yarn logo" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo" />
   <img src="https://cdn.simpleicons.org/clickup/00B2A9" height="40" alt="clickup logo" />
   <img src="https://cdn.simpleicons.org/notion/000000" height="40" alt="notion logo" />
 </div>
