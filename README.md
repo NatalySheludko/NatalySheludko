@@ -38,6 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.simpleicons.org/nextdotjs/fdfbfc" height="40" alt="next logo"  />
   <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
@@ -58,6 +59,7 @@
   <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40" alt="stackoverflow logo"  />
   <img src="https://cdn.simpleicons.org/sass/CC6699" height="40" alt="sass logo" />
   <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="40" alt="eslint logo" />
+  <img src="https://cdn.simpleicons.org/prettier/fdfbfc" height="40" alt="prettier logo" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo" />
   <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="40" alt="yarn logo" />
